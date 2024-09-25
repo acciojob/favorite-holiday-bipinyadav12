@@ -1,1 +1,22 @@
-/*  your css code here. If applicable */
+h1{
+	width:100%;
+	text-align:center;
+	text-decoration:underline;
+	color:red;
+	background-image: linear-gradient(green, yellow);
+}
+p{
+	text-align:center;
+	font-size:20px;
+	background-image:linear-gradient(to right bottom,red ,green)
+	
+}
+ul{
+	background-image:linear-gradient(to bottom, blue , greenyellow);
+}
+ol{
+	background-image:linear-gradient(to bottom, skyblue, whitesmoke);
+}
+li{
+	line-height:1.5;
+}
